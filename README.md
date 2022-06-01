@@ -5,7 +5,9 @@ Frontend baby, aprendiendo de manera autodidacta
 - 🌱 Cualquier feedback es bienvenido, me ayuda ha seguir aprendiendo!
 - 😄 Pronouns: She/her
 
-####Coding 🚀:
+###Coding 🚀:
+<br/>
+
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -14,6 +16,8 @@ Frontend baby, aprendiendo de manera autodidacta
 
 
 <br/>
----
-####Connect with me 📫:
+
+###Connect with me 📫:
+<br/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aranxa_Mo?color=1DA1F2&label=Twitter%20%40Aranxa_Mo&logo=twitter&style=flat-square)](https://twitter.com/Aranxa_Mo)
