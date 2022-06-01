@@ -1,6 +1,7 @@
 ## Hola👋, soy Aranxa Martínez
 
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+#####Connect with me:
+[![Twitter Follow](https://img.shields.io/twitter/follow/Aranxa_Mo?color=1DA1F2&label=Twitter%20%40Aranxa_Mo&logo=twitter&style=flat-square)](https://twitter.com/Aranxa_Mo)
