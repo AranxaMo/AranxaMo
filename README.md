@@ -1,8 +1,9 @@
 ## Hola👋, soy Aranxa Martínez
 
-Frontend baby, aprendiendo de manera autodidacta
+Estudiante Front-End, aprendiendo de manera autodidacta.
+Actualmente estudiando Tailwind CSS
 
-- 🌱 Cualquier feedback es bienvenido, me ayuda ha seguir aprendiendo!
+- 🌱 El Feedback es totalmente bienvenido, me ayuda ha seguir creciendo como desarrolladora!
 - 😄 Pronouns: She/her
 
 ### Coding 🚀:
